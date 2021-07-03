@@ -14,10 +14,10 @@ p{
 }
 section{
     display: flex;
-    image-resolution: 100*100;
 }
+
 .half-width{
-width: 50%; padding: 10%;
+width: 50%;padding: 10px;
 
 }
 
@@ -26,3 +26,8 @@ width: 50%; padding: 10%;
     width: 100%;
 }
 
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+}
