@@ -1,15 +1,22 @@
 
 
 
+  body{
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0%;
+  }
+  
+  
   h1{
-  color: orange;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: black;
+  font-size: 50px;
+
 }
 
 p{
 
     color: orangered;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 25px;
 }
 section{
@@ -17,17 +24,36 @@ section{
 }
 
 .half-width{
-width: 50%;padding: 10px;
-
+width: 50%;
+padding-left: 5% ;
 }
 
 .half-width img{
 
-    width: 100%;
+    width: 60%;
+    border-radius: 100px;
 }
 
 .link-button{
     text-decoration: none;
-    background-color: orangered;
-    padding: 10px 40px;
+    background-color: orange;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+    position: relative;
+    
+    
+}
+
+.orange-color{
+
+    color: orange;
+}
+
+.top-banner{
+
+    background-image: url(img/scene01.jpg);
+background-repeat: no-repeat;
+
 }
