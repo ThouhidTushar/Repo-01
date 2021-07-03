@@ -31,19 +31,17 @@ padding-left: 5% ;
 
 .half-width img{
 
-    width: 60%;
+    width: 70%;
     border-radius: 100px;
 }
 
-.link-button{
+.hire-me{
     text-decoration: none;
-    background-color: teal;
+    background-color: orange;
     padding: 10px 30px;
     color: white;
     font-weight: 700;
     border-radius: 10px;
-    position: relative;
-    
     
 }
 
@@ -56,5 +54,15 @@ padding-left: 5% ;
 
 background-image: url(img/top-banner.png);
 background-repeat: no-repeat;
+
+}
+h2{
+    font-size: 40px;
+}
+
+.dream-big{
+background-image: url(img/dream-bg.png);
+background-repeat: no-repeat;
+background-position-x: right;
 
 }
