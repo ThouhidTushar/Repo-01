@@ -27,6 +27,7 @@ section{
 .half-width{
 width: 50%;
 padding-left: 5% ;
+
 }
 
 .half-width img{
@@ -64,5 +65,63 @@ h2{
 background-image: url(img/dream-bg.png);
 background-repeat: no-repeat;
 background-position-x: right;
+
+}
+
+/* .experience{
+    display: flex;
+    display: table;
+    padding: 10px;
+    border: 5px;
+    margin: 20px; */
+}
+
+.box{ 
+ padding: 20px;
+border-radius: 20px;
+margin: 20px;
+}
+
+.last-part{
+
+    background-color: teal;
+    padding: 10px 30px;
+    border-radius: 100px orange solid;
+    margin-top: 50%;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+,.box{
+
+    box-sizing: content-box 200px 400px;
+}
+
+.box{
+
+    
+}
+.experience-item{
+
+box-shadow: tomato 10px 10px 10px 10px;
+width: 40%;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 15px;
+
+}
+
+.final-font{
+
+    font-size: 100%;
+}
+
+
+.last-thing{
+
+    padding: 10px;
+    border: 5px;
+    margin: 20px;
 
 }
