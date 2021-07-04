@@ -1,113 +1,93 @@
+body {
+  font-family: "Varela Round", sans-serif;
+  margin: 0%;
+}
 
-
-
-body{
-
-    font-family:'Varela Round', sans-serif;
-    margin: 0%;
-  }
-  
-  
-  h1{
+h1 {
   color: black;
   font-size: 60px;
-
 }
 
-p{
-
-    color: orangered;
-    font-size: 25px;
+p {
+  color: orangered;
+  font-size: 25px;
 }
-section{
-    display: flex;
-    margin-bottom: 100px;
-}
-
-.half-width{
-width: 50%;
-padding-left: 5% ;
-
+section {
+  display: flex;
+  margin-bottom: 100px;
 }
 
-.half-width img{
-
-    width: 70%;
-    border-radius: 100px;
+.half-width {
+  width: 50%;
+  padding-left: 5%;
 }
 
-.hire-me{
-    text-decoration: none;
-    background-color: orange;
-    padding: 10px 30px;
-    color: white;
-    font-weight: 700;
-    border-radius: 10px;
-    
+.half-width img {
+  width: 70%;
+  border-radius: 100px;
 }
 
-.orange-color{
-
-    color: orange;
+.hire-me {
+  text-decoration: none;
+  background-color: orange;
+  padding: 10px 30px;
+  color: white;
+  font-weight: 700;
+  border-radius: 10px;
 }
 
-.top-banner{
-
-background-image: url(img/top-banner.png);
-background-repeat: no-repeat;
-
-}
-h2{
-    font-size: 40px;
+.orange-color {
+  color: orange;
 }
 
-.dream-big{
-background-image: url(img/dream-bg.png);
-background-repeat: no-repeat;
-background-position-x: right;}
-
-.box{ 
- padding: 20px;
-border-radius: 20px;
-margin: 20px;
+.top-banner {
+  background-image: url(img/top-banner.png);
+  background-repeat: no-repeat;
+}
+h2 {
+  font-size: 40px;
 }
 
-.last-part{
-
-    background-color: teal;
-    padding: 10px 30px;
-    border-radius: 100px orange solid;
-    margin-top: 50%;
-    color: white;
-    font-weight: 700;
-    border-radius: 10px;
+.dream-big {
+  background-image: url(img/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position-x: right;
 }
 
-.box{
-
-    box-sizing: content-box 200px 400px;
-}
-   
-.experience-item{
-
-box-shadow: tomato 10px 10px 10px 10px;
-width: 40%;
-margin-left: 5%;
-margin-right: 5%;
-padding-left: 15px;
-
+.box {
+  padding: 20px;
+  border-radius: 20px;
+  margin: 20px;
 }
 
-.final-font{
-
-    font-size: 100%;
+.last-part {
+  background-color: teal;
+  padding: 10px 30px;
+  border-radius: 100px orange solid;
+  margin-top: 50%;
+  color: white;
+  font-weight: 700;
+  border-radius: 10px;
 }
 
+.box {
+  box-sizing: content-box 200px 400px;
+}
 
-.last-thing{
+.experience-item {
+  box-shadow: tomato 10px 10px 10px 10px;
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 15px;
+}
 
-    padding: 10px;
-    border: 5px;
-    margin: 20px;
+.final-font {
+  font-size: 100%;
+}
 
+.last-thing {
+  padding: 10px;
+  border: 5px;
+  margin: 20px;
 }
