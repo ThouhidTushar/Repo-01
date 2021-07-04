@@ -1,7 +1,7 @@
 
 
 
-  body{
+body{
 
     font-family:'Varela Round', sans-serif;
     margin: 0%;
@@ -64,17 +64,7 @@ h2{
 .dream-big{
 background-image: url(img/dream-bg.png);
 background-repeat: no-repeat;
-background-position-x: right;
-
-}
-
-/* .experience{
-    display: flex;
-    display: table;
-    padding: 10px;
-    border: 5px;
-    margin: 20px; */
-}
+background-position-x: right;}
 
 .box{ 
  padding: 20px;
@@ -93,15 +83,11 @@ margin: 20px;
     border-radius: 10px;
 }
 
-,.box{
+.box{
 
     box-sizing: content-box 200px 400px;
 }
-
-.box{
-
-    
-}
+   
 .experience-item{
 
 box-shadow: tomato 10px 10px 10px 10px;
